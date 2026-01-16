@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+llama-parse>=0.4.2
+llama-index-core>=0.10.19
+langchain-groq
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+pandas
+pydantic>=2.7.0
